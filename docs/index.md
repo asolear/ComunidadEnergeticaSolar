@@ -1,17 +1,20 @@
 <style>
 body {
   background-image: url('image/solar-panels-g590cc61f9_1920.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 
 #
 
+![Image title](image/ce_mini.png){ width="30" }
+
+<figure markdown>
+  ![Image title](image/ce_mini.png){ width="30" }
+</figure>
 ??? Info "¿A qué nos referimos cuando hablamos de Comunidades Energéticas?"
-
-    Para poneros en situación, imaginad vuestra comunidad de vecinos, vuestro barrio o un polígono industrial y que todos ellos tuviesen como objetivo principal beneficiarse colectivamente de las mismas instalaciones de generación u otras medidas situadas en el entorno de dicha comunidad. ¿Qué supondría? Principalmente un aprovechamiento de la capacidad de generación eléctrica o térmica, una mejora de la eficiencia energética o un desarrollo de sistemas de movilidad sostenible, con potencial para un desarrollo de la gestión de la demanda en futuro. A través de la inversión en estas medidas, los actores de la comunidad energética podrían beneficiarse adicionalmente. Por otra parte, la comunidad o el área local, se beneficiaría en términos medioambientales y sociales. Y es que las comunidades energéticas son, principalmente, un concepto social, donde la gobernanza de ciudadanos, pymes y autoridades locales prima.
-
-
-    ¿A qué nos referimos cuando hablamos de Comunidades Energéticas?
 
     Para poneros en situación, imaginad vuestra comunidad de vecinos, vuestro barrio o un polígono industrial y que todos ellos tuviesen como objetivo principal beneficiarse colectivamente de las mismas instalaciones de generación u otras medidas situadas en el entorno de dicha comunidad. ¿Qué supondría? Principalmente un aprovechamiento de la capacidad de generación eléctrica o térmica, una mejora de la eficiencia energética o un desarrollo de sistemas de movilidad sostenible, con potencial para un desarrollo de la gestión de la demanda en futuro. A través de la inversión en estas medidas, los actores de la comunidad energética podrían beneficiarse adicionalmente. Por otra parte, la comunidad o el área local, se beneficiaría en términos medioambientales y sociales. Y es que las comunidades energéticas son, principalmente, un concepto social, donde la gobernanza de ciudadanos, pymes y autoridades locales prima.
 
@@ -19,16 +22,12 @@ body {
 
     Si queréis conocer cómo sería una Comunidad Energética… En el municipio de Crevillent, de la mano del Grupo Enercoop, son pioneros por convertirse en la primera comunidad energética local de Europa.
 
-
-
-
 ??? Abstract "¿Cuáles son las principales actividades que se desarrollan en una Comunidad Energética?"
 
     - Generación de energía que proceda de fuentes renovables.
     - Proporcionar servicios de eficiencia energética (incluyendo, por ejemplo, renovaciones de edificios).
     - Suministro, consumo, agregación y almacenamiento de energía y potencialmente distribución.
     - Prestación de servicios de recarga de vehículos eléctricos o de otros servicios energéticos.
-
 
 ??? Example "Ventajas de las Comunidades Energéticas"
 
@@ -38,10 +37,9 @@ body {
     - Ofrecer a las comunidades la posibilidad de crear ingresos que se generan y permanecen en la propia comunidad - local, aumentando la aceptación del desarrollo de energías renovables locales
     - Facilitación de integración de energías renovables en el sistema a través de la gestión de la demanda
     - Beneficios ambientales.
-    - Beneficios sociales: creación de empleo local y fomento de la cohesión y equidad social  
+    - Beneficios sociales: creación de empleo local y fomento de la cohesión y equidad social
 
 ??? question "🙋‍♀️Preguntas más frecuentes…"
-
 
     ??? question "¿Qué diferencia a las comunidades energéticas de otros actores tradicionales?"
 
@@ -52,21 +50,21 @@ body {
         - Gobernanza: la toma de decisiones internas está basada en gobernanza democrática, asegurando que la “autonomía” de la comunidad se mantenga. Adicionalmente, las comunidades energéticas se prestan a colaboraciones público-privada-ciudadanas, modelo de gobernanza aún poco desarrollado en España
 
 
-    ??? question "hjkgkjhgjg jgjgjh "
+    ??? question "¿A qué retos se enfrentan las comunidades energéticas debido a sus diferencias con otros actores del mercado?"
 
-        khkjh
+        - Dificultad para recaudar finanzas por adelantado de los ciudadanos, pymes o autoridades locales.
+        - Falta de marco normativo definido.
+        - Depender de voluntarios y profesionales de otros sectores diferentes al energético.
+        - Escasa experiencia para resolver barreras administrativas para acceder al mercado.
+        - La falta de proyectos hace difícil la participación en licitaciones.
+        - Existe una complejidad a la hora de usar la gobernanza democrática y estrategias de relaciones locales.
 
-    ??? question "hjkgkjhgjg jgjgjh "
+    ??? question "¿Podría una entidad que está constituida solo por empresas ser considerada como comunidad energética?"
 
-        khkjh
+        Sí, podría ser. Sin embargo, las comunidades energéticas deben estar basadas en una participación abierta y no discriminatoria, de forma que cualquier persona física o jurídica elegible pueda unirse. Además, deben cumplir con los criterios de elegibilidad y control efectivo, donde las directivas europeas estipulan que dicho control ha de ser ejercido por ciudadanos, pymes o autoridades locales. 
 
-    ??? question "hjkgkjhgjg jgjgjh "
+    ??? question "¿Están las comunidades energéticas limitadas a cooperativas?"
 
-        khkjh
-
-    ??? question "hjkgkjhgjg jgjgjh "
-
-        khkjh
+        No, cualquier entidad jurídica puede usarse mientras cumpla con los criteriosestablecidos en la UE. Los estados miembros pueden elegir cualquier forma jurídica, demanera que un estado miembro podría limitar las comunidades energéticas a cooperativas.
 
 <a href="https://www.idae.es/ayudas-y-financiacion/comunidades-energeticas"><sub><sub>Fuente: IDAE</sub></sub></a>
-
