@@ -9,9 +9,11 @@ body {
 </style>
 
 #
-<a href="Planos/Caja String/">![Image title](image/ce_mini.png){ width="30" }</a> 
-<a href="Planos/Caja String/">![Image title](image/ce_mini.png){ width="30" }</a> 
-<a href="https://www.idae.es/ayudas-y-financiacion/comunidades-energeticas">![Image title](image/ce_mini.png){ width="30" }</a>
+
+[![Image title](image/ce.png){ width="15" }](Planos/Caja String/){ .md-button .md-button--primary }
+[AA](Planos/Caja String/){ .md-button .md-button--primary }
+[A](Planos/Caja String/){ .md-button .md-button--primary }
+[![Image title](image/comunidadenergetica.png){ width="77" }](Planos/Caja String/){ .md-button .md-button--primary }
 
 
 
