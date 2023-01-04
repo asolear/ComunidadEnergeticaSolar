@@ -3,7 +3,8 @@ body {
   background-image: url('image/solar-panels-g590cc61f9_1920.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: 100% 100%;
 }
 </style>
 
