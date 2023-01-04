@@ -1,0 +1,27 @@
+site_name: Proyecto Solar
+site_url: https://asolear.es/ProyectoSolar
+
+theme:
+  palette:
+    primary: red
+  name: material
+  language: es
+  # favicon: assets/favicon.ico
+  logo: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.tabs.link
+    - navigation.top
+    - navigation.expand
+markdown_extensions:
+  - meta
+  - tables
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+
+copyright: "Copyright 2021 Asolear"
+
+# Strategy: Use an absolute path
