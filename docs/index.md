@@ -13,7 +13,6 @@ body {
 [![Image title](image/ce.png){ width="15" }](Planos/Caja String/){ .md-button .md-button--primary }
 [AA](Planos/Caja String/){ .md-button .md-button--primary }
 [A](Planos/Caja String/){ .md-button .md-button--primary }
-[![Image title](image/comunidadenergetica.png){ width="77" }](Planos/Caja String/){ .md-button .md-button--primary }
 
 
 
