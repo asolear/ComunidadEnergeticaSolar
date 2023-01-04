@@ -9,12 +9,12 @@ body {
 </style>
 
 #
+<a href="Planos/Caja String/">![Image title](image/ce_mini.png){ width="30" }</a> 
+<a href="Planos/Caja String/">![Image title](image/ce_mini.png){ width="30" }</a> 
+<a href="https://www.idae.es/ayudas-y-financiacion/comunidades-energeticas">![Image title](image/ce_mini.png){ width="30" }</a>
 
-![Image title](image/ce_mini.png){ width="30" }
 
-<figure markdown>
-  ![Image title](image/ce_mini.png){ width="30" }
-</figure>
+
 ??? Info "¿A qué nos referimos cuando hablamos de Comunidades Energéticas?"
 
     Para poneros en situación, imaginad vuestra comunidad de vecinos, vuestro barrio o un polígono industrial y que todos ellos tuviesen como objetivo principal beneficiarse colectivamente de las mismas instalaciones de generación u otras medidas situadas en el entorno de dicha comunidad. ¿Qué supondría? Principalmente un aprovechamiento de la capacidad de generación eléctrica o térmica, una mejora de la eficiencia energética o un desarrollo de sistemas de movilidad sostenible, con potencial para un desarrollo de la gestión de la demanda en futuro. A través de la inversión en estas medidas, los actores de la comunidad energética podrían beneficiarse adicionalmente. Por otra parte, la comunidad o el área local, se beneficiaría en términos medioambientales y sociales. Y es que las comunidades energéticas son, principalmente, un concepto social, donde la gobernanza de ciudadanos, pymes y autoridades locales prima.
